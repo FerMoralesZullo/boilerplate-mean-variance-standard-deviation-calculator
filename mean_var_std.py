@@ -17,5 +17,5 @@ def calculate(list):
   }
   return calculations
 
-if __name__ == 'main':
+if __name__ == '__main__':
     calculate()
